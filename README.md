@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm echo, a developer.
+
+My main languages include Rust and Haskell
+
+
 
 <!--
 **dotqurter/dotqurter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
