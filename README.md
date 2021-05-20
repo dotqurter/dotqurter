@@ -1,4 +1,4 @@
-<h1 align="center"> 🐾 Hi there! 👋 </h1>
+<h1 align="center"> <!--🐾--> Hi there! 👋 </h1>
 
 > https://github.com/dotqurter/dotqurter
 
@@ -10,3 +10,5 @@
 | I code in Rust! | And C++ too!  |
 |:--------------:|:-------------:|
 | <img src="rust.png" width=40>   |  <img src="cpp.png" width=38>    |
+
+<img src="termin.png">
