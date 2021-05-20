@@ -7,6 +7,5 @@
 - I've got a certificate in basic IT fundamentals!
 - I play osu! and Clone Hero!
 
-<img align="center" src="rust.png" width=32>
-<img align="center" src="cpp.png" width=32>
+<img align="center" src="rust.png" width=32> <img align="center" src="cpp.png" width=32>
 
