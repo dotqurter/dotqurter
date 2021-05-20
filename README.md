@@ -11,4 +11,4 @@
 |:--------------:|:-------------:|
 | <img src="rust.png" width=40>   |  <img src="cpp.png" width=38>    |
 
-<img align="middle" src="termin.png">
+<img src="termin.png">
