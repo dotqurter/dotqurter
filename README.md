@@ -10,5 +10,3 @@
 | I code in Rust! | And C++ too!  |
 |:--------------:|:-------------:|
 | <img src="rust.png" width=40>   |  <img src="cpp.png" width=38>    |
-
-<img src="termin.PNG">
